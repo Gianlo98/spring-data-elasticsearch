@@ -16,8 +16,9 @@
 	<name>Spring Data Elasticsearch</name>
 	<description>Spring Data Implementation for Elasticsearch</description>
 	<url>https://github.com/spring-projects/spring-data-elasticsearch</url>
-
 	<properties>
+		  <sonar.organization>gianlo</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<elasticsearch>7.15.0</elasticsearch>
 		<log4j>2.14.1</log4j>
 		<netty>4.1.65.Final</netty>
